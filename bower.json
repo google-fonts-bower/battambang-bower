@@ -1,0 +1,17 @@
+{
+    "name": "battambang-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Danh Hong"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/battambang-bower.git"
+    },
+    "description": "Battambang font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
